@@ -1,1 +1,16 @@
+form {
+  width: 300px;
+  margin: 20px auto;
+}
 
+input, textarea {
+  width: 100%;
+  padding: 8px;
+}
+
+button {
+  padding: 8px 15px;
+  background: blue;
+  color: white;
+  border: none;
+}
